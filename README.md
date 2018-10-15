@@ -12,8 +12,7 @@ In this tutorial, we will practice
 8. How to join tables
 9. How to create/drop views to simplify queries
 10. How to deal with NULLs
-11 How to interact with Pandas.
-
+11. How to convert query results into Pandas's DataFrame.
 
 It is worth noting that this tutorial mainly focuses on how to retrieve data from a database, instead of database management. That is why we slected SQLite rather than more complicated Databases such as MySQL or PostgreSQL, etc. 
 
