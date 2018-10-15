@@ -14,6 +14,7 @@ In this tutorial, we will practice
 10. How to deal with NULLs
 11. How to convert query results into Pandas's DataFrame
 12. How to rollback and commit a transaction (this one used the sqlite3 package as ipython_sql does not support transactions).
+13. (Bonus)How to access a SQLite database directly with Pandas.
 
 It is worth noting that this tutorial mainly focuses on how to retrieve data from a database, instead of database management. That is also why we slected SQLite rather than more complicated Databases such as MySQL or PostgreSQL, etc.
 
