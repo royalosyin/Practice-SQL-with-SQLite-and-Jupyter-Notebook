@@ -22,3 +22,7 @@ It is worth noting that this tutorial mainly focuses on how to retrieve data fro
 Moreover, this SQLite tutorial would not cover everything about SQLite. Some important features are left to be explored by users such as triger and tansaction, primary or foreigh index, etc. 
 
 The most efficient way to master SQL is to keep practicing through extensive hands-on practices. Hope that you could start using SQLite effectively and comfortably. 
+
+April/2021
+Update Window Functions based on the latest version of SQLite and add an extra tutorial
+1. s03-Window Functions within SQLite
