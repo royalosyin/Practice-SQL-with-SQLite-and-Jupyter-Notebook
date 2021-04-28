@@ -24,5 +24,6 @@ Moreover, this SQLite tutorial would not cover everything about SQLite. Some imp
 The most efficient way to master SQL is to keep practicing through extensive hands-on practices. Hope that you could start using SQLite effectively and comfortably. 
 
 April/2021
-Update Window Functions based on the latest version of SQLite and add an extra tutorial
+
+Window Functions based on the latest version of SQLite and add an extra tutorial
 1. s03-Window Functions within SQLite
